@@ -31,8 +31,8 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="/Biswa.pdf"
-                download="Biswa.pdf"
+                href="/Biswajit.pdf"
+                download="Biswajit.pdf"
                 className="px-6 py-2 font-semibold rounded-full border border-primary text-primary hover:bg-primary/20 transition-colors duration-300 hover:scale-105"
               >
                 Download CV
