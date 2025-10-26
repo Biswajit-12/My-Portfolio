@@ -84,6 +84,9 @@ export const Navbar = () => {
               </a>
             ))}
           </div>
+          <div className="mt-6">
+            <ThemeToggle isMobile />
+          </div>
         </div>
       </div>
     </nav>
