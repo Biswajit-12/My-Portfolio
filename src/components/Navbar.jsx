@@ -42,7 +42,7 @@ export const Navbar = () => {
           </span>
         </a>
         {/* desktop nav */}
-        <div className="hidden md:flex space-x-10 animate-bounce-once pr-20">
+        <div className="hidden md:flex space-x-9 animate-bounce-once pr-5">
           {navItems.map((item, key) => (
             <a
               key={key}
